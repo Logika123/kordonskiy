@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: #F2B441;
+}
+
+header {
+    background-color: #EB0800;
+    padding: 5px;
+}
+
+header a {
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 13px;
+}
+
+h1 {
+    color: #8F9E00;
+    border: 4px solid blue;
+    text-align: center;
+    border-radius: 12px;
+    background-color: black;
+}
+
+footer {
+    background-color: #EB0800;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+footer p {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+nav {
+    background-color: #EB9C00;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.goods {
+    border: 2px solid darkblue;
+    border-radius: 14px;
+    padding: 5px;
+}
